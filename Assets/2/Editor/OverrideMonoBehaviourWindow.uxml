@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:TextField picking-mode="Ignore" label="Namespace" value="filler text" text="HelloWorld" name="Namespace">
+        <Style src="OverrideMonoBehaviourWindow.uss" />
+    </ui:TextField>
+    <ui:Toggle label="IsUse" name="IsUse" value="true">
+        <Style src="OverrideMonoBehaviourWindow.uss" />
+    </ui:Toggle>
+</ui:UXML>
